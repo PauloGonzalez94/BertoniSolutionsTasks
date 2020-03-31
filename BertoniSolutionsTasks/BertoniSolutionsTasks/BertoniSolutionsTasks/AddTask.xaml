@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BertoniSolutionsTasks.AddTask">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Nueva Actividad"
+                HorizontalOptions="CenterAndExpand" />
+            <Editor x:Name="taskDesc" VerticalOptions="StartAndExpand"></Editor>
+            <Button x:Name="saveTask" Text="Guardar" Clicked="SaveTask_Clicked"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
