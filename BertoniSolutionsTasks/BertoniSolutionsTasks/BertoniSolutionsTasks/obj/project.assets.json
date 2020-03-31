@@ -479,11 +479,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\memor\\source\\repos\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks.csproj",
+      "projectUniqueName": "C:\\Users\\memor\\source\\repos\\Git\\BertoniSolutionsDownloaded\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks.csproj",
       "projectName": "BertoniSolutionsTasks",
-      "projectPath": "C:\\Users\\memor\\source\\repos\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks.csproj",
+      "projectPath": "C:\\Users\\memor\\source\\repos\\Git\\BertoniSolutionsDownloaded\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks.csproj",
       "packagesPath": "C:\\Users\\memor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\memor\\source\\repos\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\obj\\",
+      "outputPath": "C:\\Users\\memor\\source\\repos\\Git\\BertoniSolutionsDownloaded\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\BertoniSolutionsTasks\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

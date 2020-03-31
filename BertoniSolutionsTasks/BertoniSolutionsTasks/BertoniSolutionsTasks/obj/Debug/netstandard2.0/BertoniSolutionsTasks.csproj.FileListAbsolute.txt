@@ -11,3 +11,15 @@ C:\Users\memor\source\repos\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniS
 C:\Users\memor\source\repos\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.csprojAssemblyReference.cache
 C:\Users\memor\source\repos\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\memor\source\repos\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\AddTask.xaml.g.cs
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\bin\Debug\netstandard2.0\BertoniSolutionsTasks.deps.json
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\bin\Debug\netstandard2.0\BertoniSolutionsTasks.dll
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\bin\Debug\netstandard2.0\BertoniSolutionsTasks.pdb
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\AddTask.xaml.g.cs
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.csproj.CoreCompileInputs.cache
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.AssemblyInfoInputs.cache
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.AssemblyInfo.cs
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.dll
+C:\Users\memor\source\repos\Git\BertoniSolutionsDownloaded\BertoniSolutionsTasks\BertoniSolutionsTasks\BertoniSolutionsTasks\obj\Debug\netstandard2.0\BertoniSolutionsTasks.pdb
